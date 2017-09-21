@@ -8,6 +8,7 @@ To flash keymap to your Ergodox EZ:
   * Rename the repo folder with `mv cyo-ergodox-layout cyo`
   * Navigate to Ergodox Ez makefile location `cd qmk_firmware/keyboards/ergodox/ez/`
   * Plug in your board and run the flash command with: `make ergodox-ez-cyo-teensy`
+    * Hit the physical reset button on the keyboard when the console prompt tells you to
   * Happy typing!
 
 ### TODO:
