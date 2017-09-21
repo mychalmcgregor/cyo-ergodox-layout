@@ -8,7 +8,7 @@ To flash keymap to your Ergodox EZ:
   * Plug in your board and run the flash command with:
   * `make ergodox-ez-cyo-teensy`
 
-TODO:
+### TODO:
 
   * More in-depth README:
     * display layout
