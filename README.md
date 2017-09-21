@@ -10,4 +10,6 @@ To flash keymap to your Ergodox EZ:
 
 TODO:
 
-  * More in-depth README
+  * More in-depth README:
+    * display layout
+    * show tests
